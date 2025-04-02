@@ -1,7 +1,86 @@
 2:I[9107,[],"ClientPageRoot"]
-3:I[1472,["648","static/chunks/648-4e8d9827977c3879.js","953","static/chunks/953-67eea3bb8b208d9e.js","138","static/chunks/app/donate/page-fe770353ae2eb33d.js"],"default",1]
+3:I[1472,["972","static/chunks/972-00ff430d1921a068.js","953","static/chunks/953-9731cc1e861ac8be.js","138","static/chunks/app/donate/page-0f7cea601e7d4cdb.js"],"default",1]
 4:I[4707,[],""]
 5:I[6423,[],""]
-0:["0c3xgLPDJEiwqsxWkPKSa",[[["",{"children":["donate",{"children":["__PAGE__",{}]}]},"$undefined","$undefined",true],["",{"children":["donate",{"children":["__PAGE__",{},[["$L1",["$","$L2",null,{"props":{"params":{},"searchParams":{}},"Component":"$3"}],null],null],null]},[null,["$","$L4",null,{"parallelRouterKey":"children","segmentPath":["children","donate","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[[[["$","link","0",{"rel":"stylesheet","href":"/new-hapsi/_next/static/css/2b02096a71e17455.css","precedence":"next","crossOrigin":"$undefined"}]],["$","html",null,{"lang":"en","children":["$","body",null,{"className":"__className_caaecf","children":["$","$L4",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":[["$","title",null,{"children":"404: This page could not be found."}],["$","div",null,{"style":{"fontFamily":"system-ui,\"Segoe UI\",Roboto,Helvetica,Arial,sans-serif,\"Apple Color Emoji\",\"Segoe UI Emoji\"","height":"100vh","textAlign":"center","display":"flex","flexDirection":"column","alignItems":"center","justifyContent":"center"},"children":["$","div",null,{"children":[["$","style",null,{"dangerouslySetInnerHTML":{"__html":"body{color:#000;background:#fff;margin:0}.next-error-h1{border-right:1px solid rgba(0,0,0,.3)}@media (prefers-color-scheme:dark){body{color:#fff;background:#000}.next-error-h1{border-right:1px solid rgba(255,255,255,.3)}}"}}],["$","h1",null,{"className":"next-error-h1","style":{"display":"inline-block","margin":"0 20px 0 0","padding":"0 23px 0 0","fontSize":24,"fontWeight":500,"verticalAlign":"top","lineHeight":"49px"},"children":"404"}],["$","div",null,{"style":{"display":"inline-block"},"children":["$","h2",null,{"style":{"fontSize":14,"fontWeight":400,"lineHeight":"49px","margin":0},"children":"This page could not be found."}]}]]}]}]],"notFoundStyles":[]}]}]}]],null],null],["$L6",null]]]]
-6:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"charSet":"utf-8"}],["$","title","2",{"children":"HAPsI - Helping Alleviate Poverty in South India"}],["$","meta","3",{"name":"description","content":"HAPsI is dedicated to helping poor children in South India. We have helped to build a children's home, which has now been running for over 10 years."}],["$","meta","4",{"name":"next-size-adjust"}]]
+7:I[2972,["972","static/chunks/972-00ff430d1921a068.js","160","static/chunks/app/not-found-aae60a2c2f696dc4.js"],""]
+6:T7e2,
+          :root {
+            --primary: #f47920;
+            --secondary: #a6bf79;
+            --accent: #005da4;
+            --background: #ffffff;
+            --foreground: #333333;
+            --muted: #f8f8f8;
+            --muted-foreground: #666666;
+            --border: #e5e5e5;
+          }
+          
+          body {
+            color: var(--foreground);
+            background: var(--background);
+            font-family: 'Inter', sans-serif;
+            line-height: 1.6;
+          }
+          
+          h1, h2, h3, h4, h5, h6 {
+            font-weight: 700;
+            line-height: 1.2;
+            margin-bottom: 1rem;
+            color: var(--secondary);
+          }
+          
+          a {
+            color: var(--primary);
+            text-decoration: none;
+            transition: color 0.2s ease;
+          }
+          
+          a:hover {
+            color: var(--secondary);
+          }
+          
+          .container {
+            max-width: 1200px;
+            margin: 0 auto;
+            padding: 0 1rem;
+          }
+          
+          .btn {
+            display: inline-block;
+            padding: 0.75rem 1.5rem;
+            background-color: var(--primary);
+            color: white;
+            border-radius: 4px;
+            font-weight: 600;
+            transition: all 0.3s ease;
+            text-align: center;
+            cursor: pointer;
+            border: none;
+          }
+          
+          .btn:hover {
+            background-color: var(--secondary);
+            color: white;
+            transform: translateY(-2px);
+          }
+          
+          .btn-secondary {
+            background-color: var(--secondary);
+          }
+          
+          .btn-secondary:hover {
+            background-color: var(--primary);
+          }
+          
+          .nav-link {
+            color: #4B5563;
+            font-weight: 500;
+            transition: color 0.2s ease;
+          }
+          
+          .nav-link:hover {
+            color: var(--primary);
+          }
+        0:["WPRSCo5_ndj75I_YA8Cx3",[[["",{"children":["donate",{"children":["__PAGE__",{}]}]},"$undefined","$undefined",true],["",{"children":["donate",{"children":["__PAGE__",{},[["$L1",["$","$L2",null,{"props":{"params":{},"searchParams":{}},"Component":"$3"}],null],null],null]},[null,["$","$L4",null,{"parallelRouterKey":"children","segmentPath":["children","donate","children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":"$undefined","notFoundStyles":"$undefined"}]],null]},[[[["$","link","0",{"rel":"stylesheet","href":"/new-hapsi/_next/static/css/199e98c296e7bdb6.css","precedence":"next","crossOrigin":"$undefined"}]],["$","html",null,{"lang":"en","children":[["$","head",null,{"children":["$","style",null,{"dangerouslySetInnerHTML":{"__html":"$6"}}]}],["$","body",null,{"className":"__className_caaecf","children":["$","$L4",null,{"parallelRouterKey":"children","segmentPath":["children"],"error":"$undefined","errorStyles":"$undefined","errorScripts":"$undefined","template":["$","$L5",null,{}],"templateStyles":"$undefined","templateScripts":"$undefined","notFound":["$","div",null,{"className":"flex flex-col min-h-screen","children":["$","div",null,{"className":"flex-grow flex items-center justify-center","children":["$","div",null,{"className":"container mx-auto px-4 py-16 text-center","children":[["$","h1",null,{"className":"text-4xl md:text-6xl font-bold mb-6","children":"404"}],["$","h2",null,{"className":"text-2xl md:text-3xl font-bold mb-4","children":"Page Not Found"}],["$","p",null,{"className":"text-lg mb-8","children":"The page you are looking for doesn't exist or has been moved."}],["$","$L7",null,{"href":"/","className":"btn","children":"Return to Home"}]]}]}]}],"notFoundStyles":[]}]}]]}]],null],null],["$L8",null]]]]
+8:[["$","meta","0",{"name":"viewport","content":"width=device-width, initial-scale=1"}],["$","meta","1",{"charSet":"utf-8"}],["$","title","2",{"children":"HAPsI - Helping Alleviate Poverty in South India"}],["$","meta","3",{"name":"description","content":"HAPsI is dedicated to helping poor children in South India. We have helped to build a children's home, which has now been running for over 10 years."}],["$","meta","4",{"name":"next-size-adjust"}]]
 1:null

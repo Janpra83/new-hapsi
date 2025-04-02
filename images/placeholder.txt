@@ -1,0 +1,7 @@
+Please add your hero image as "hero-background.jpg" to this directory.
+
+Recommended specifications:
+- Resolution: At least 1920x1080 pixels
+- Format: JPG or WebP
+- Content: Image showing children, community work, or scenes from South India
+- Optimize for web to keep file size reasonable (under 500KB) 
